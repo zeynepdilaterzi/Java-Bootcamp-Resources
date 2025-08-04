@@ -22,4 +22,5 @@ public class Tip {
      *  2. Prints: Your service was wonderful! Please, accept this tip: $<tip>
      */
 
+     public static void tip
 }
